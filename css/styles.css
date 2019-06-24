@@ -1,7 +1,7 @@
 .grid_container {
     display: grid;
     grid-template-columns: repeat(9,1fr);
-    grid-template-rows: 70vh 30vh;
+    grid-template-rows: 73vh 43vh;
     grid-template-areas:
     "a b c c c c d d d"
     "e f f g g g h h h";
